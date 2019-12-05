@@ -1,0 +1,7 @@
+﻿<html>
+  <body>
+    <img src="pic1.bmp" alt="First pic" />
+    <img src="pic2.bmp" alt="Second pic" />
+    <img src="pic3.bmp" alt="Third pic" />
+  </body>
+</html>
